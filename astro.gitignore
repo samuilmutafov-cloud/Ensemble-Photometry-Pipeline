@@ -1,0 +1,8 @@
+# Астрономически папки и данни (FITS/CSV)
+data/
+*.fits
+*.fit
+*.FITS
+*.FIT
+*.csv
+.ipynb_checkpoints/
